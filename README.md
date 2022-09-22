@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm a versatile, creative and passionate engineer with solid domain knowledge, implement new technology quickly and have productivity experience in developing and leading projects from scratch.<br><br>A happy and passionate Software Developer with almost a decade of experience building Enterprise Resource Planning (ERP), Financial Services, Content delivery, Startup and Cloud-Based Technologies.
+# 💫 Hi there:
+My name is Fajar Faruq Maulana. I'm a versatile, creative and passionate engineer with solid domain knowledge, implement new technology quickly and have productivity experience in developing and leading projects from scratch.<br><br>A happy and passionate Software Developer with almost a decade of experience building Enterprise Resource Planning (ERP), Financial Services, Content delivery, Startup and Cloud-Based Technologies.
 
 
 ## 🌐 Socials:
